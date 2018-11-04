@@ -7,13 +7,15 @@ badge_maker("laura")
 
 speaker_names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-rooms = ["1", "2", "3", "4", "5", "6", "7"]
+rooms = ["room 1", "room 2", "room 3", "room 4", " room 5", " room 6", "room 7"]
 
 speaker_names.each do |name|
   puts "Hello, my name is #{name}."
 end 
 
 puts assignments = speaker_names.zip(rooms)
+
+
 
 
   
