@@ -9,6 +9,7 @@ speaker_names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 
 speaker_names.each do |name|
+  puts "Hello, my name is "
   
   
 end 
