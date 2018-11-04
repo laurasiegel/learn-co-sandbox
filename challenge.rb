@@ -5,7 +5,7 @@ end
 badge_maker("laura")
 
 
-speaker_names = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
+speaker_names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 
 def batch_badge_creator(arr) 
