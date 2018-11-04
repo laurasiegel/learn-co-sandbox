@@ -13,9 +13,3 @@ speaker_names.each do |name|
   puts "Hello, my name is #{name}."
 end 
 
-def assign_rooms(speaker_names)
-  
-    speaker_names.map do |name|
-    puts "Hello #{name}. You will be assigned to" 
-  
-end
