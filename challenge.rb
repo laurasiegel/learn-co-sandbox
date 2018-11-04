@@ -13,7 +13,9 @@ speaker_names.each do |name|
   puts "Hello, my name is #{name}."
 end 
 
+
 puts assignments = speaker_names.zip(rooms)
+
 
 
 
