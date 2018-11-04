@@ -3,3 +3,12 @@ puts "Hello, my name is #{name}."
 end
 
 badge_maker("laura")
+
+
+speaker_names = []
+
+
+def batch_badge_creator(arr) 
+  
+  
+end 
