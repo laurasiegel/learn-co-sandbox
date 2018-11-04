@@ -14,6 +14,6 @@ speaker_names.each do |name|
 end 
 
 def assign_rooms(array, room)
-  
+  speaker_names
   
 end
