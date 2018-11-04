@@ -11,6 +11,7 @@ rooms = ["1", "2", "3", "4", "5", "6", "7"]
 
 speaker_names.each do |name|
   puts "Hello, my name is #{name}."
+end 
 
 puts assignments = speaker_names.zip(rooms)
 
